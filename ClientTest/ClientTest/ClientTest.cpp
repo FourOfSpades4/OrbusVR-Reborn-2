@@ -15,7 +15,7 @@
 #define DEFAULT_BUFLEN 512
 #define DEFAULT_PORT "27015"
 #define DEFAULT_ADDR "127.0.0.1"
-#define DEFAULT_ADDR "100.35.75.61"
+#define DEFAULT_ADDR "SERVER IP"
 
 DWORD WINAPI HandleSend(LPVOID lpParameter) {
     SOCKET ServerSocket = *reinterpret_cast<SOCKET*>(lpParameter);
