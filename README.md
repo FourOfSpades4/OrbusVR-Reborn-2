@@ -35,4 +35,3 @@ The project uses [MinHook](https://github.com/TsudaKageyu/minhook) a simply hook
 
 ### Is it good?
 No, but it was a ton of fun. It was my first experience in coding server communcations, and honestly, it's pretty terrible. If I were to remake this, I would use [BepInEx](https://github.com/BepInEx/BepInEx) to make it easier to install, better Server / Client communication, and make the Server do most of the calculations instead of the clients. I learned a ton during this project, and will probably do a project attempting to create a multiplayer game myself now that I know way more about how computers communicate.   
-Edit: [I'm now working on it.](https://github.com/FourOfSpades4/MUD)
